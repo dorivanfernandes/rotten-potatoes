@@ -2,7 +2,7 @@
 
 ## Configuração
 
-MONGODB_DB => Nome do database
+MONGODB_DB => Nome do databasee
 
 MONGODB_HOST => Host do MongoDB
 
